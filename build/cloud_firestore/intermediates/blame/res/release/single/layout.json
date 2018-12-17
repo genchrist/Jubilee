@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/anoop/AndroidStudioProjects/jubilee/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f7b782f9197d6132c62852a7ddf4f810/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/anoop/AndroidStudioProjects/jubilee/build/cloud_firestore/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f7b782f9197d6132c62852a7ddf4f810/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/anoop/AndroidStudioProjects/jubilee/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f7b782f9197d6132c62852a7ddf4f810/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/anoop/AndroidStudioProjects/jubilee/build/cloud_firestore/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4476df96e97d29835b2c9838614518d1/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/anoop/AndroidStudioProjects/jubilee/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f7b782f9197d6132c62852a7ddf4f810/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/anoop/AndroidStudioProjects/jubilee/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4476df96e97d29835b2c9838614518d1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/anoop/AndroidStudioProjects/jubilee/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f7b782f9197d6132c62852a7ddf4f810/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/anoop/AndroidStudioProjects/jubilee/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4476df96e97d29835b2c9838614518d1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/anoop/AndroidStudioProjects/jubilee/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f7b782f9197d6132c62852a7ddf4f810/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/anoop/AndroidStudioProjects/jubilee/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f7b782f9197d6132c62852a7ddf4f810/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/anoop/AndroidStudioProjects/jubilee/build/cloud_firestore/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4476df96e97d29835b2c9838614518d1/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/anoop/AndroidStudioProjects/jubilee/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f7b782f9197d6132c62852a7ddf4f810/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/anoop/AndroidStudioProjects/jubilee/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4476df96e97d29835b2c9838614518d1/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/anoop/AndroidStudioProjects/jubilee/build/cloud_firestore/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f7b782f9197d6132c62852a7ddf4f810/res/layout/notification_media_cancel_action.xml"
+    }
+]

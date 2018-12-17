@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/anoop/AndroidStudioProjects/jubilee/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/ac7c1c2605a96ac97c6a1bcccb6d9259/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/anoop/AndroidStudioProjects/jubilee/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/ac7c1c2605a96ac97c6a1bcccb6d9259/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/anoop/AndroidStudioProjects/jubilee/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/ac7c1c2605a96ac97c6a1bcccb6d9259/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">874363821294-3ag11v1ce9q7i4730gpbokahpj92rls0.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://jytn25.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">874363821294</string>
+    <string name="google_api_key" translatable="false">AIzaSyASuq6zba1d-mjWN6hF0w3Y3yO670ZqjBs</string>
+    <string name="google_app_id" translatable="false">1:874363821294:android:d5e1194f56f45ba8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyASuq6zba1d-mjWN6hF0w3Y3yO670ZqjBs</string>
+    <string name="google_storage_bucket" translatable="false">jytn25.appspot.com</string>
+    <string name="project_id" translatable="false">jytn25</string>
+</resources>

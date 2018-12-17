@@ -1,0 +1,99 @@
+-injars /home/anoop/AndroidStudioProjects/jubilee/build/app/intermediates/flutter/flutter-x86.jar(**.class)
+-injars /home/anoop/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/aaf212343a4a93d49c92008bdf80d7b0/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/6b6a65a09b30baa71d4a830379f23462/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/eec758a7e64b8787a6104c8c465a2093/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/ac7c1c2605a96ac97c6a1bcccb6d9259/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.0.3.aar/3e56e2644742a9c2a62e8dfc8f0c0945/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf-lite/1.12.0/f5bebfbd5e93b8bbb58888a5cfaa9f490fb7b455/grpc-protobuf-lite-1.12.0.jar(**.class)
+-injars /home/anoop/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-okhttp/1.12.0/3fdb2c85587702865b464b2f6faabf7e2e294a3d/grpc-okhttp-1.12.0.jar(**.class)
+-injars /home/anoop/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-stub/1.12.0/fbd2bafe09a89442ab3d7a8d8b3e8bafbd59b4e0/grpc-stub-1.12.0.jar(**.class)
+-injars /home/anoop/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.12.0/541a5c68ce85c03190e29bc9e0ec611d2b75ff24/grpc-core-1.12.0.jar(**.class)
+-injars /home/anoop/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/20.0/89507701249388e1ed5ddcf8c41f4ce1be7831ef/guava-20.0.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/4f3bf9fc67285d4e364d7f1f2e326dba/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/551b99d8f0200d26361700160677aa1e/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/ff548332ff3d6a2526a6875feabfc16a/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/6b3fccd58798397f9b5ec3277f413568/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/0a208eb77b03bae6febf6060dcc7e77a/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/64a52cb2d18dbf126371efb7bb509616/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/e433622b73728f8d2e67f9d5b529aa14/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/626e54a1faee204433993e30a197a6d7/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/0d97f874f617ba5798fc6d32af081015/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/a1e19c22d6143af737c664aaf9759686/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/4d8b2db417653e30095c669a00c01a9f/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/3ba74191fd447836e848d49692e12a80/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/a69e9493085c94263915a80ee1336b13/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-15.0.1.aar/b605fff208995ed8b6179b36aca1670d/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/8b98f8f0a72214502b6087415c41f7e6/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/d526bfefc939b8b4dd2051520ce3d39e/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/fe855c3eae9554affc0497119774c101/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/179d76f445848ff77d1935b74d34515d/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/938a2932f56266ac336657763dc7eebe/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f7b782f9197d6132c62852a7ddf4f810/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/01018a5306dc17d0f601e5289f583028/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7e418e2edda779e798f5ec559e97cc76/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e5ed4d3817998b98b3757aefcf6e89e6/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4476df96e97d29835b2c9838614518d1/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/84e084a5d74b326a8a3c57bda9ad5001/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.0.aar/a3a89489804fcc34dbf5e14990255da9/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.2/20f6463eb19ac61960c5d91a094c2f4f0727dc2e/okhttp-2.7.2.jar(**.class)
+-injars /home/anoop/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar(**.class)
+-injars /home/anoop/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar(**.class)
+-injars /home/anoop/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar(**.class)
+-injars /home/anoop/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-lite/3.0.1/59b5b9c6e1a3054696d23492f888c1f8b583f5fc/protobuf-lite-3.0.1.jar(**.class)
+-injars /home/anoop/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar(**.class)
+-injars /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/59026ee7d5e812ed698994f5f562804e/jars/classes.jar(**.class)
+-injars /home/anoop/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-context/1.12.0/5b63a170b786051a42cce08118d5ea3c8f60f749/grpc-context-1.12.0.jar(**.class)
+-injars /home/anoop/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar(**.class)
+-injars /home/anoop/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.1.2/6dcc08f90f678ac33e5ef78c3c752b6f59e63e0c/error_prone_annotations-2.1.2.jar(**.class)
+-injars /home/anoop/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar(**.class)
+-injars /home/anoop/.gradle/caches/modules-2/files-2.1/io.opencensus/opencensus-contrib-grpc-metrics/0.11.0/d57b877f1a28a613452d45e35c7faae5af585258/opencensus-contrib-grpc-metrics-0.11.0.jar(**.class)
+-injars /home/anoop/.gradle/caches/modules-2/files-2.1/io.opencensus/opencensus-api/0.11.0/c1ff1f0d737a689d900a3e2113ddc29847188c64/opencensus-api-0.11.0.jar(**.class)
+-injars /home/anoop/AndroidStudioProjects/jubilee/build/firebase_auth/intermediates/intermediate-jars/debug/classes.jar(**.class)
+-injars /home/anoop/AndroidStudioProjects/jubilee/build/shared_preferences/intermediates/intermediate-jars/debug/classes.jar(**.class)
+-injars /home/anoop/AndroidStudioProjects/jubilee/build/path_provider/intermediates/intermediate-jars/debug/classes.jar(**.class)
+-injars /home/anoop/AndroidStudioProjects/jubilee/build/google_sign_in/intermediates/intermediate-jars/debug/classes.jar(**.class)
+-injars /home/anoop/AndroidStudioProjects/jubilee/build/cloud_firestore/intermediates/intermediate-jars/debug/classes.jar(**.class)
+-injars /home/anoop/AndroidStudioProjects/jubilee/build/firebase_core/intermediates/intermediate-jars/debug/classes.jar(**.class)
+-injars /home/anoop/AndroidStudioProjects/jubilee/build/app/intermediates/classes/debug(**.class)
+-outjars /home/anoop/AndroidStudioProjects/jubilee/build/app/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /home/anoop/Android/Sdk/build-tools/26.0.2/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /home/anoop/AndroidStudioProjects/jubilee/build/app/intermediates/multi-dex/debug/components.flags
+
+
+# Referenced at /home/anoop/AndroidStudioProjects/jubilee/build/app/intermediates/manifests/full/debug/AndroidManifest.xml:28
+-keep class io.flutter.app.FlutterApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/anoop/AndroidStudioProjects/jubilee/build/cloud_firestore/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4476df96e97d29835b2c9838614518d1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/anoop/AndroidStudioProjects/jubilee/build/cloud_firestore/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4476df96e97d29835b2c9838614518d1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/anoop/AndroidStudioProjects/jubilee/build/cloud_firestore/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4476df96e97d29835b2c9838614518d1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/anoop/AndroidStudioProjects/jubilee/build/cloud_firestore/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/anoop/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4476df96e97d29835b2c9838614518d1/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

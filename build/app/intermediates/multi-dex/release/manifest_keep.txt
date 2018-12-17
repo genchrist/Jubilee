@@ -1,0 +1,3 @@
+# Referenced at /home/anoop/AndroidStudioProjects/jubilee/build/app/intermediates/manifests/full/release/AndroidManifest.xml:28
+-keep class io.flutter.app.FlutterApplication { <init>(...); }
+
